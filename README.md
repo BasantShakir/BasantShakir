@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=%F0%9F%8F%AF+Focusing;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+BASANT+SHAKIR;%F0%9F%A7%A0+Deep+Learning+Specialist;%F0%9F%93%8A+Data+Analyst+from+Egypt" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=%F0%9F%8F%AF+Focusing;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Basant+Shakir;%F0%9F%A7%A0+Deep+Learning+Specialist;%F0%9F%93%8A+Data+Analyst+from+Egypt" alt="Typing Animation" />
 
 </div>
 
@@ -13,11 +13,11 @@
 
 <div align="center" style="max-width: 900px; margin: 0 auto; line-height: 1.8;">
 
-💼 **Master's Student in Artificial Intelligence | Specializing in Deep Learning**  
-🎓 **Bachelor's degree in Computer Science**  
-🌱 **Currently researching: Transformer Architectures & Advanced Computer Vision**  
-🔬 **Passionate about building intelligent systems & extracting insights from complex data**  
-💬 **Ask me about: Neural Networks, TensorFlow/PyTorch, Data Analysis, or AI Research**
+**💼 Master's Student in Artificial Intelligence | Specializing in Deep Learning**  
+**🎓 Bachelor's degree in Computer Science**  
+**🌱 Currently researching: Transformer Architectures & Advanced Computer Vision**  
+**🔬 Passionate about building intelligent systems & extracting insights from complex data**  
+**💬 Ask me about: Neural Networks, TensorFlow/PyTorch, Data Analysis, or AI Research**
 
 </div>
 
@@ -89,14 +89,6 @@
 
 <div align="center" style="margin-top: 30px;">
 
-### 🚀 **"Transforming Data into Intelligent Solutions"**
-
-</div>
-### 🚀 **"TRANSFORMING DATA INTO INTELLIGENT SOLUTIONS"**
-**Building the future of AI, one model at a time**
-
-<br>
-
-⭐ *Thank you for visiting my profile!* ⭐
+### 🚀 **Transforming Data into Intelligent Solutions**
 
 </div>
