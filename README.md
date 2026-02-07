@@ -11,37 +11,13 @@
 
 ## 👩‍💻 **ABOUT ME**
 
-<div align="center" style="max-width: 900px; margin: 0 auto;">
+<div align="center" style="max-width: 900px; margin: 0 auto; line-height: 1.8;">
 
-<!-- First Row: Two items side by side -->
-<div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
-  <div style="text-align: center;">
-    <strong>💼 Master's Student</strong><br>
-    Artificial Intelligence | Deep Learning
-  </div>
-  <div style="text-align: center;">
-    <strong>🎓 Bachelor's Degree</strong><br>
-    Computer Science
-  </div>
-</div>
-
-<!-- Second Row: Two items side by side -->
-<div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
-  <div style="text-align: center;">
-    <strong>🌱 Current Research</strong><br>
-    Transformers & Computer Vision
-  </div>
-  <div style="text-align: center;">
-    <strong>🔬 Passion</strong><br>
-    Building Intelligent Systems
-  </div>
-</div>
-
-<!-- Third Row: Single centered item -->
-<div style="text-align: center;">
-  <strong>💬 Ask Me About</strong><br>
-  Neural Networks, TensorFlow/PyTorch, Data Analysis, AI Research
-</div>
+💼 **Master's Student in Artificial Intelligence | Specializing in Deep Learning**  
+🎓 **Bachelor's degree in Computer Science**  
+🌱 **Currently researching: Transformer Architectures & Advanced Computer Vision**  
+🔬 **Passionate about building intelligent systems & extracting insights from complex data**  
+💬 **Ask me about: Neural Networks, TensorFlow/PyTorch, Data Analysis, or AI Research**
 
 </div>
 
@@ -90,13 +66,6 @@
 
 <div align="center" style="margin: 25px 0;">
 
-<!-- Email Badge -->
-<a href="mailto:memooana55@gmail.com" style="text-decoration: none; margin: 0 8px;">
-  <img src="https://img.shields.io/badge/📧_EMAIL-memooana55@gmail.com-007ACC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br><br>
-
 <!-- Social Icons -->
 <a href="mailto:memooana55@gmail.com" title="Email me at memooana55@gmail.com" style="margin: 0 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="44" height="44" />
@@ -120,6 +89,9 @@
 
 <div align="center" style="margin-top: 30px;">
 
+### 🚀 **"Transforming Data into Intelligent Solutions"**
+
+</div>
 ### 🚀 **"TRANSFORMING DATA INTO INTELLIGENT SOLUTIONS"**
 **Building the future of AI, one model at a time**
 
