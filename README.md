@@ -11,17 +11,37 @@
 
 ## 👩‍💻 **ABOUT ME**
 
-<div align="center" style="max-width: 800px; margin: 0 auto; text-align: center;">
-  
-💼 **Master's Student** in Artificial Intelligence | Specializing in **Deep Learning**  
-<br>
-🎓 **Bachelor's degree** in Computer Science  
-<br>
-🌱 **Currently researching:** Transformer Architectures & Advanced Computer Vision  
-<br>
-🔬 **Passionate about** building intelligent systems & extracting insights from complex data  
-<br>
-💬 **Ask me about:** Neural Networks, TensorFlow/PyTorch, Data Analysis, or AI Research  
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+
+<!-- First Row: Two items side by side -->
+<div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
+  <div style="text-align: center;">
+    <strong>💼 Master's Student</strong><br>
+    Artificial Intelligence | Deep Learning
+  </div>
+  <div style="text-align: center;">
+    <strong>🎓 Bachelor's Degree</strong><br>
+    Computer Science
+  </div>
+</div>
+
+<!-- Second Row: Two items side by side -->
+<div style="display: flex; justify-content: center; gap: 40px; margin-bottom: 20px;">
+  <div style="text-align: center;">
+    <strong>🌱 Current Research</strong><br>
+    Transformers & Computer Vision
+  </div>
+  <div style="text-align: center;">
+    <strong>🔬 Passion</strong><br>
+    Building Intelligent Systems
+  </div>
+</div>
+
+<!-- Third Row: Single centered item -->
+<div style="text-align: center;">
+  <strong>💬 Ask Me About</strong><br>
+  Neural Networks, TensorFlow/PyTorch, Data Analysis, AI Research
+</div>
 
 </div>
 
@@ -107,12 +127,4 @@
 
 ⭐ *Thank you for visiting my profile!* ⭐
 
-</div>
-**Building the future of AI, one model at a time**
-
-<br>
-
-⭐ *Thank you for visiting my profile!* ⭐
-
-</div>
 </div>
