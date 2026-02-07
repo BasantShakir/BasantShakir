@@ -1,7 +1,6 @@
-<!-- Hide file path with special comment -->
-<div align="center" style="margin-top: -20px;">
+<div align="center">
 
-<!-- Animated Header - Bigger and Better -->
+<!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=%F0%9F%8F%AF+Focusing;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+BASANT+SHAKIR;%F0%9F%A7%A0+Deep+Learning+Specialist;%F0%9F%93%8A+Data+Analyst+from+Egypt" alt="Typing Animation" />
 
 </div>
@@ -12,12 +11,16 @@
 
 ## 👩‍💻 **ABOUT ME**
 
-<div align="center">
+<div align="center" style="max-width: 800px; margin: 0 auto; text-align: center;">
   
 💼 **Master's Student** in Artificial Intelligence | Specializing in **Deep Learning**  
+<br>
 🎓 **Bachelor's degree** in Computer Science  
+<br>
 🌱 **Currently researching:** Transformer Architectures & Advanced Computer Vision  
+<br>
 🔬 **Passionate about** building intelligent systems & extracting insights from complex data  
+<br>
 💬 **Ask me about:** Neural Networks, TensorFlow/PyTorch, Data Analysis, or AI Research  
 
 </div>
@@ -67,7 +70,7 @@
 
 <div align="center" style="margin: 25px 0;">
 
-<!-- Email -->
+<!-- Email Badge -->
 <a href="mailto:memooana55@gmail.com" style="text-decoration: none; margin: 0 8px;">
   <img src="https://img.shields.io/badge/📧_EMAIL-memooana55@gmail.com-007ACC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -98,6 +101,13 @@
 <div align="center" style="margin-top: 30px;">
 
 ### 🚀 **"TRANSFORMING DATA INTO INTELLIGENT SOLUTIONS"**
+**Building the future of AI, one model at a time**
+
+<br>
+
+⭐ *Thank you for visiting my profile!* ⭐
+
+</div>
 **Building the future of AI, one model at a time**
 
 <br>
