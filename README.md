@@ -15,7 +15,7 @@
 
 **💼 Master's Student in Artificial Intelligence | Specializing in Deep Learning**  
 **🎓 Bachelor's degree in Computer Science**  
-**🌱 Currently researching: Transformer Architectures & Advanced Computer Vision**  
+**🌱 Research Spotlight: Vision Transformer (ViT) for Medical Imaging**  
 **🔬 Passionate about building intelligent systems & extracting insights from complex data**  
 **💬 Ask me about: Neural Networks, TensorFlow/PyTorch, Data Analysis, or AI Research**
 
