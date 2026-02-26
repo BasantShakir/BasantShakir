@@ -71,7 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="44" height="44" />
 </a>
 
-<a href="https://linkedin.com/in/basant-shakir" target="_blank" title="Connect on LinkedIn" style="margin: 0 10px;">
+<a href="www.linkedin.com/in/basant-shakir-576059253" target="_blank" title="Connect on LinkedIn" style="margin: 0 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" />
 </a>
 
